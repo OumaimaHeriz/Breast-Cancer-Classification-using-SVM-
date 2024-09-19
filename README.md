@@ -5,6 +5,14 @@ This project focuses on classifying breast cancer data into **malignant** and **
 
 Breast cancer is a common type of cancer that requires accurate diagnosis to improve patient outcomes. This project leverages machine learning techniques to build a model that assists in the classification of breast cancer tumors using a widely known dataset.
 
+## Requirements
+- **Python 3.6+**
+- **scikit-learn**
+- **pandas**
+- **numpy**
+- **matplotlib**
+- **seaborn**
+
 ## Dataset
 
 The dataset used in this project is the **Breast Cancer Wisconsin (Diagnostic) Dataset**, available in the `sklearn.datasets` module. It consists of 569 samples of breast cancer tissue, with each sample having 30 numerical features.
